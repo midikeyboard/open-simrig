@@ -24,7 +24,7 @@ Welcome to the SimRig 4040 Extrusion Open Source Project! This project aims to p
 | 40x40 Corner Bracket   | 4        |              |
 | 40x40 Endcap           | 12       |              |
 | M6x20 Rubber Foot      | 6        |              |
-| M6 T-Slot nut          | 12       |              |
+| M6 T-Slot nut          | 18       |              |
 | M6x16 Socket Head Screw| 8        |              |
 | M6x50 Socket Head Screw| 4        |              |
 | M8x60 Socket Head Screw| 14       |              |
